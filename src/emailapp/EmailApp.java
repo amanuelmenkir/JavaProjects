@@ -3,12 +3,13 @@ package emailapp;
 
 public class EmailApp {
     public static void main(String[] args) {
-        Email em1 = new Email("Amanuel", "Menkir");
+        EmailM em1 = new EmailM("Amanuel", "Menkir");
 
         System.out.println(em1.showInfo());
     }
 }
 
+//https://github.com/amanuelmenkir/JavaProjects/tree/master/src/emailapp
 
 /*
 Make a program that simplifies the process of creating
